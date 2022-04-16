@@ -1,3 +1,3 @@
 # ntbgy.github.io
-www.ntbgy.xyz
+www.ntbgy.site
 难题不过夜的个人网站
